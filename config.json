@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceuarse",
+        "uuid": 20255172,
+        "checksum": "4r5nz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
